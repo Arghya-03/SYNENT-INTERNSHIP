@@ -136,3 +136,13 @@ Created for educational and internship purposes. Check the terms of any external
 - [ ] Open the frontend with Live Server.
 - [ ] Search for different cities and verify the weather updates.
 - [ ] Confirm that `.env` is not committed to the repository.
+
+## Screenshots
+
+### 1. WeatherNow Homepage
+
+![WeatherNow Homepage](screenshots/01-homepage.png)
+
+### 2. Live Weather – Kolkata
+
+![Kolkata Weather](screenshots/02-kolkata-weather.png)
